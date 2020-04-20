@@ -1,8 +1,8 @@
 {
   "name": "opensap-cp7-bookshop",
   "version": "1.0.0",
-  "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
+  "description": "My own stuff related to OpenSAP course 'Building Applications with SAP Cloud Application Programming Model'",
+  "repository": "https://github.com/rayatus/opensap-cp7-bookshop.git",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
